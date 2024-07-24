@@ -1,0 +1,23 @@
+📁 futuristic-calendar
+├── 📄 README.md
+├── 📜 LICENSE.md
+├── 📦 package.json
+├── 🔒 package-lock.json
+├── 🙈 .gitignore
+├── 🎨 tailwind.config.js
+├── 🖌️ postcss.config.js
+│
+├── 📁 public
+│   └── 🌐 index.html
+│
+└── 📁 src
+    ├── 🚀 index.js
+    ├── 🎭 index.css
+    └── 🗓️ FuturisticCalendar.js
+
+2 directories, 11 files
+
+Legend:
+📁 Directory   📄 Markdown   📜 License   📦 Package Info
+🔒 Lock File   🙈 Git Ignore 🎨 Config    🖌️ PostCSS Config
+🌐 HTML        🚀 Main JS    🎭 CSS       🗓️ Calendar Component
